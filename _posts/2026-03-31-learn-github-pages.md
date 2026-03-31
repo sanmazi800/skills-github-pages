@@ -1,5 +1,7 @@
 ---
-title: "learn-github-pages"
+layout: post
+title: "我的第一篇博客"
 date: 2026-03-31
+categories: [生活]
 ---
-hello, my first AI stpes.
+at my first day of an AI engineer.
